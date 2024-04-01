@@ -1,4 +1,4 @@
-Copyright © 2024 Sumit Kumar
+Copyright @ 2024 Sumit Kumar
 
 GitHub is a web-based platform for version control using Git. Below are some common Git commands used with GitHub:
 
